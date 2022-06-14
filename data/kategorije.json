@@ -1,0 +1,26 @@
+[{
+        "id": 0,
+        "naziv": "Fruits"
+
+    },
+    {
+        "id": 1,
+        "naziv": "Berries"
+    },
+    {
+        "id": 2,
+        "naziv": "Vegetables"
+    },
+    {
+        "id": 3,
+        "naziv": "Podded Vegetables"
+    },
+    {
+        "id": 4,
+        "naziv": "Root and Tuberous"
+    },
+    {
+        "id": 5,
+        "naziv": "Tropical and exotic"
+    }
+]

@@ -1,0 +1,17 @@
+[{
+        "url": "about.html",
+        "naziv": "About"
+    },
+    {
+        "url": "contact-us.html",
+        "naziv": "Contact"
+    },
+    {
+        "url": "products.html",
+        "naziv": "Products"
+    },
+    {
+        "url": "cart.html",
+        "naziv": "Cart"
+    }
+]

@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- Basic -->
+
+<head>
+    <meta charset="utf-8">
+
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Site Metas -->
+    <title>FreshMarket</title>
+    <meta name="keywords" content="FreshMarket,Market,Shop,Freshshop" />
+    <meta name="description" content="We have built up a novel start to finish working answer for online grocery retail dependent on restrictive innovation and IP, appropriate for working our very own business and those of our business accomplices." />
+    <meta name="copyright" content="Djordje Taskovic @ 2022." />
+
+    <!-- Site Icons -->
+    <link rel="shortcut icon" href="images/accesories/favicon-32x32.png" type="image/x-icon">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css.map">
+
+    <!-- Site CSS -->
+    <link rel="stylesheet" href="css/style.css">
+    <!-- Responsive CSS -->
+    <link rel="stylesheet" href="css/responsive.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/custom.css">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+
+
+
+</head>
+
+<body>
+    <!-- Start Main Top -->
+    <section class="site-container">
+        <header class="cd-header">
+            <div class="container">
+
+                <div class="cd-logo d-flex justify-content-center">
+                    <a class="cd-logo-btn " href="index.html">
+                        <img src="images/accesories/market1.png" alt="Logo">
+                    </a>
+                </div>
+                <nav>
+                    <ul class="cd-secondary-nav" id="meni">
+
+                        <!--  -->
+                        <li class="site-nav-submenu">
+                            <button class="sub-menu-btn">
+                    Hours &amp; Locations
+                    <i class="fas fa-long-arrow-alt-down"></i>
+                </button>
+                            <div class="toggle-menu sub-menu">
+                                <ul>
+                                    <li>
+                                        <a class="loc-press" data-id="0">Danny's</a>
+                                    </li>
+                                    <li>
+                                        <a class="loc-press" data-id="1">Nolita's</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+                        <!--  -->
+                    </ul>
+                </nav>
+                <!-- cd-nav -->
+
+                <a class="cd-primary-nav-trigger" href="#0">
+                    <span class="cd-menu-icon"></span>
+                </a>
+            </div>
+            <!-- cd-primary-nav-trigger -->
+        </header>
+
+        <nav>
+            <ul class="cd-primary-nav">
+                <li class="cd-label">About us</li>
+                <ul id="mobile-menu">
+                    <!--  -->
+                    <li class="site-nav-submenu">
+                        <button class="sub-menu-btn">
+                Hours &amp; Locations
+                <i class="fas fa-long-arrow-alt-down"></i>
+            </button>
+                        <div class="toggle-menu sub-mobile-menu">
+                            <ul>
+                                <li>
+                                    <a class="loc-press" data-id="0">Danny's</a>
+                                </li>
+                                <li>
+                                    <a class="loc-press" data-id="1">Nolita's</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+                <div class="cd-primary-endline"></div>
+            </ul>
+        </nav>
+        <!-- Start All Title Box -->
+        <div class="all-title-box">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h2>Checkout</h2>
+                        <ul class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="cart.html">CART</a></li>
+                            <li class="breadcrumb-item active">CHECKOUT</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End All Title Box -->
+
+        <!-- Start Cart  -->
+        <div class="cart-box-main" id="checkout">
+            <div class="container">
+
+                <div class="row">
+                    <div class="col-sm-6 col-lg-6 mb-3">
+                        <div class="checkout-address">
+                            <div class="title-left">
+                                <h3>Billing address</h3>
+                            </div>
+                            <form class="needs-validation">
+                                <div class="row">
+                                    <div class="col-md-6 mb-3">
+                                        <label for="firstName">First name *</label>
+                                        <input type="text" class="form-control" id="firstName" placeholder="" value="" required>
+                                        <div class="invalid-feed"> </div>
+                                    </div>
+                                    <div class="col-md-6 mb-3">
+                                        <label for="lastName">Last name *</label>
+                                        <input type="text" class="form-control" id="lastName" placeholder="" value="" required>
+                                        <div class="invalid-feed"> </div>
+                                    </div>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="email">Email Address *</label>
+                                    <input type="email" class="form-control" id="email" placeholder="">
+                                    <div class="invalid-feed"> </div>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="address">Address *</label>
+                                    <input type="text" class="form-control" id="address" placeholder="" required>
+                                    <div class="invalid-feed"></div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-md-5 mb-3">
+                                        <label for="country">Country *</label>
+                                        <select class="wide w-100" id="country">
+									
+									
+
+								</select>
+                                        <div class="invalid-feed"> </div>
+                                    </div>
+                                    <div class="col-md-4 mb-3">
+                                        <label for="state">City *</label>
+                                        <select class="wide w-100" id="city">
+									
+									
+								</select>
+                                        <div class="invalid-feed"> </div>
+                                    </div>
+                                    <div class="col-md-3 mb-3">
+                                        <label for="zip">Zip *</label>
+                                        <input type="text" class="form-control" id="zip" placeholder="" required>
+                                        <div class="invalid-feed"> </div>
+                                    </div>
+                                </div>
+
+                                <hr class="mb-1"> </form>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-6 mb-3">
+                        <div class="row">
+                            <div class="col-md-12 col-lg-12">
+                                <div class="shipping-method-box">
+                                    <div class="title-left">
+                                        <h3>Shipping Method</h3>
+                                    </div>
+                                    <div class="mb-4">
+                                        <div class="custom-control custom-radio">
+                                            <input id="shippingOption1" name="shipping-option" class="custom-control-input shipping" checked="checked" type="radio">
+                                            <label class="custom-control-label" for="shippingOption1">Standard Delivery</label> <span class="float-right font-weight-bold">FREE</span> </div>
+                                        <div class="ml-4 mb-2 small">(3-7 business days)</div>
+                                        <div class="custom-control custom-radio">
+                                            <input id="shippingOption2" name="shipping-option" class="custom-control-input shipping" type="radio">
+                                            <label class="custom-control-label" for="shippingOption2">Express Delivery</label> <span class="float-right font-weight-bold">$10.00</span> </div>
+                                        <div class="ml-4 mb-2 small">(2-4 business days)</div>
+                                        <div class="custom-control custom-radio">
+                                            <input id="shippingOption3" name="shipping-option" class="custom-control-input shipping" type="radio">
+                                            <label class="custom-control-label" for="shippingOption3">Next Business day</label> <span class="float-right font-weight-bold">$20.00</span> </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12 col-lg-12">
+                                <div class="order-box">
+                                    <div class="title-left">
+                                        <h3>Shopping cart</h3>
+                                    </div>
+                                    <div class="rounded p-2 bg-light" id="cout-cart">
+
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12 col-lg-12">
+                                <div class="order-box">
+                                    <div class="title-left">
+                                        <h3>Your order</h3>
+                                    </div>
+                                    <div class="d-flex">
+                                        <h4>Sub Total</h4>
+                                        <div class="ml-auto font-weight-bold" id="sub-total"> </div>
+                                    </div>
+                                    <div class="d-flex">
+                                        <h4>Discount</h4>
+                                        <div class="ml-auto font-weight-bold"> $ 10 </div>
+                                    </div>
+                                    <hr class="my-1">
+                                    <div class="d-flex">
+                                        <h4>Tax</h4>
+                                        <div class="ml-auto font-weight-bold"> $ 2 </div>
+                                    </div>
+                                    <div class="d-flex">
+                                        <h4>Shipping Cost</h4>
+                                        <div class="ml-auto font-weight-bold"> Free </div>
+                                    </div>
+                                    <hr>
+                                    <div class="d-flex gr-total">
+                                        <h5>Grand Total</h5>
+                                        <div class="ml-auto h5" id="grand-total"> </div>
+                                    </div>
+                                    <div class="empty-cart invalid-feed"> </div>
+                                    <hr> </div>
+                            </div>
+                            <div class="col-12 d-flex shopping-box">
+                                <a href="#" class="ml-auto btn hvr-hover checkout-btn">Place Order</a>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <div class="order-box">
+                            <div class="title-left" id="order-msg">
+
+                            </div>
+                            <div class="rounded p-2 bg-light" id="order-view">
+
+
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <div id="order-view">
+                            <!-- <h3>Name: </h3> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Cart -->
+        <!-- Start copyright  -->
+        <div class="footer-copyright">
+            <p>&copy; Copyright <strong><span>Fresh-shop</span></strong>. All Rights Reserved 2022.
+                <a href="author.html">Author</a> <a href="doc.pdf">Documentation</a></p>
+        </div>
+        <!-- End copyright  -->
+
+        <a href="#" id="back-to-top" title="Back to top" style="display: none;">&uarr;</a>
+
+        <!-- ALL JS FILES -->
+        <script src="js/jquery/jquery-3.2.1.min.js"></script>
+
+        <script src="js/popper.min.js"></script>
+        <script src="bootstrap/js/bootstrap.bundle.js"></script>
+        <script src="js/nav.js"></script>
+        <script src="js/custom.js"></script>
+        <script src="js/main.js"></script>
+        <script src="js/modernizr.js"></script>
+    </section>
+</body>
+
+</html>

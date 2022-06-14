@@ -1,0 +1,26 @@
+[{
+        "id": 0,
+        "slika": {
+            "src": "gallery-img-19",
+            "alt": "Categoria"
+        },
+        "naziv": "Berries"
+    },
+    {
+        "id": 1,
+        "slika": {
+            "src": "gallery-img-4",
+            "alt": "Categoria"
+        },
+        "naziv": "Potted Vegetables"
+    },
+    {
+        "id": 2,
+        "slika": {
+            "src": "gallery-img-15",
+            "alt": "Categoria"
+        },
+        "naziv": "Tropical and exotic"
+    }
+
+]

@@ -1,0 +1,3 @@
+Sitemap: http://freshmarket.epizy.com/sitemap.xml
+User-agent: *
+Disallow:

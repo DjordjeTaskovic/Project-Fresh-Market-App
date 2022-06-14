@@ -1,0 +1,433 @@
+[{
+        "id": 0,
+        "slika": {
+            "src": "gallery-img-1",
+            "alt": "Product cucumber"
+
+        },
+        "naziv": "Cucumbers",
+        "cena": {
+            "nova": "80.99",
+            "stara": "70"
+        },
+        "snizenje": true,
+        "kategorija": 2,
+        "opis": "All that water in cucumbers can help keep you hydrated. Plus, the fiber boost they give you helps you stay regular and avoid constipation. The vitamin K helps blood clot and keep your bones healthy.",
+        "na_raspolaganju": 30,
+        "broj_prodatih": 5,
+        "top_seller": true,
+        "popularnost": [0]
+
+    },
+    {
+        "id": 1,
+        "slika": {
+            "src": "gallery-img-2",
+            "alt": "Product tomattoes"
+        },
+        "naziv": "Cherry tomatoes",
+        "cena": {
+            "nova": "43.99",
+            "stara": "70"
+        },
+        "snizenje": false,
+        "kategorija": 2,
+        "opis": "Cherry tomatoes are rich in lycopene, which is great at fighting free radicals that cause disease. Lycopene can also limit UV damage to your skin from sun exposure",
+        "na_raspolaganju": 10,
+        "broj_prodatih": 6,
+        "top_seller": true,
+        "popularnost": [1]
+
+    }, {
+        "id": 2,
+        "slika": {
+            "src": "gallery-img-3",
+            "alt": "Product Peppers"
+
+        },
+        "naziv": "Peppers",
+        "cena": {
+            "nova": "66.99",
+            "stara": "70"
+        },
+        "snizenje": true,
+        "kategorija": 2,
+        "opis": "All types of peppers are part of the genus Capsicum, which includes hot varieties, also known as chile peppers, and sweet varieties",
+        "na_raspolaganju": 30,
+        "broj_prodatih": 23,
+        "top_seller": true,
+        "popularnost": [0]
+
+    }, {
+        "id": 3,
+        "slika": {
+            "src": "gallery-img-4",
+            "alt": "Product Pinto Bean"
+
+        },
+        "naziv": "Pinto bean",
+        "cena": {
+            "nova": "68.99",
+            "stara": "70"
+        },
+        "snizenje": false,
+        "kategorija": 3,
+        "opis": "Try these healthy, delicious black bean recipes for breakfast, lunch, and dinner...and even dessert!",
+        "na_raspolaganju": 15,
+        "broj_prodatih": 8,
+        "top_seller": true,
+        "popularnost": [0]
+
+    }, {
+        "id": 4,
+        "slika": {
+            "src": "gallery-img-5",
+            "alt": "Product whitebean"
+
+        },
+        "naziv": "White bean",
+        "cena": {
+            "nova": "22.99",
+            "stara": "70"
+        },
+        "snizenje": false,
+        "kategorija": 3,
+        "opis": "Cannellini beans are the largest of the group and because of their traditional kidney shape, they can also be referred to as White Kidney Beans.",
+        "na_raspolaganju": 20,
+        "broj_prodatih": 8,
+        "top_seller": false,
+        "popularnost": []
+
+    }, {
+        "id": 5,
+        "slika": {
+            "src": "gallery-img-6",
+            "alt": "Product black pepper"
+
+        },
+        "naziv": "Black pepper",
+        "cena": {
+            "nova": "49.99",
+            "stara": "70"
+        },
+        "snizenje": false,
+        "kategorija": 3,
+        "opis": "Black pepper (Piper nigrum) is a flowering vine in the family Piperaceae, cultivated for its fruit, known as a peppercorn, which is usually dried and used as a spice and seasoning. ... Black pepper is the world's most traded spice, and is one of the most common spices added to cuisines around the world.",
+        "na_raspolaganju": 15,
+        "broj_prodatih": 3,
+        "top_seller": false,
+        "popularnost": []
+
+    }, {
+        "id": 6,
+        "slika": {
+            "src": "gallery-img-7",
+            "alt": "Product charries"
+
+        },
+        "naziv": "Cheeries",
+        "cena": {
+            "nova": "46.99",
+            "stara": "50"
+        },
+        "snizenje": true,
+        "kategorija": 1,
+        "opis": "Cherries are low in calories and chock full of fiber, vitamins, minerals, nutrients, and other good-for-you ingredients. You'll get vitamins C, A, and K. Each long-stemmed fruit delivers potassium, magnesium, and calcium too. ",
+        "na_raspolaganju": 20,
+        "broj_prodatih": 8,
+        "top_seller": true,
+        "popularnost": [0, 1]
+
+    }, {
+        "id": 7,
+        "slika": {
+            "src": "gallery-img-8",
+            "alt": "Product greanbean"
+
+        },
+        "naziv": "Grean Bean",
+        "cena": {
+            "nova": "33.99",
+            "stara": "50"
+        },
+        "snizenje": false,
+        "kategorija": 3,
+        "opis": "Green beans are high in vitamin K, and they also contain a decent amount of calcium. These nutrients are important for maintaining strong, healthy bones and reducing your risk of fractures",
+        "na_raspolaganju": 20,
+        "broj_prodatih": 8,
+        "top_seller": false,
+        "popularnost": []
+
+    }, {
+        "id": 8,
+        "slika": {
+            "src": "gallery-img-9",
+            "alt": "Product daikon"
+
+        },
+        "naziv": "Daikon",
+        "cena": {
+            "nova": "49.99",
+            "stara": "50"
+        },
+        "snizenje": false,
+        "kategorija": 4,
+        "opis": "Daikon or mooli, Raphanus sativus var. longipinnatus, is a mild-tasting winter radish usually characterized by fast-growing leaves and a long, white, napiform root.",
+        "na_raspolaganju": 20,
+        "broj_prodatih": 8,
+        "top_seller": false,
+        "popularnost": []
+
+    }, {
+        "id": 9,
+        "slika": {
+            "src": "gallery-img-10",
+            "alt": "Product smulonion"
+
+        },
+        "naziv": "Small onion",
+        "cena": {
+            "nova": "49.99",
+            "stara": "60"
+        },
+        "snizenje": false,
+        "kategorija": 2,
+        "opis": "The onion (Allium cepa L., from Latin cepa meaning onion ), also known as the bulb onion or common onion, is a vegetable that is the most widely cultivated species of the genus Allium.",
+        "na_raspolaganju": 30,
+        "broj_prodatih": 15,
+        "top_seller": false,
+        "popularnost": []
+
+    }, {
+        "id": 10,
+        "slika": {
+            "src": "gallery-img-11",
+            "alt": "Product celer"
+
+        },
+        "naziv": "Celery",
+        "cena": {
+            "nova": "49.99",
+            "stara": "30"
+        },
+        "snizenje": true,
+        "kategorija": 4,
+        "opis": "Celery is loaded with antioxidants. These include well-known varieties such as flavonoids and vitamin C, as well as lunularin and bergapten.",
+        "na_raspolaganju": 20,
+        "broj_prodatih": 8,
+        "top_seller": false,
+        "popularnost": []
+
+    }, {
+        "id": 11,
+        "slika": {
+            "src": "gallery-img-12",
+            "alt": "Product greanbean"
+
+        },
+        "naziv": "Grean bean",
+        "cena": {
+            "nova": "49.99",
+            "stara": "70"
+        },
+        "snizenje": true,
+        "kategorija": 3,
+        "opis": "Green beans are high in vitamin K, and they also contain a decent amount of calcium. These nutrients are important for maintaining strong, healthy bones and reducing your risk of fractures. ",
+        "na_raspolaganju": 11,
+        "broj_prodatih": 2,
+        "top_seller": true,
+        "popularnost": [0, 1]
+
+    }, {
+        "id": 12,
+        "slika": {
+            "src": "gallery-img-13",
+            "alt": "Product carrots"
+
+        },
+        "naziv": "Carrotse",
+        "cena": {
+            "nova": "19.99",
+            "stara": "20"
+        },
+        "snizenje": true,
+        "kategorija": 2,
+        "opis": "The fiber in carrots can help keep blood sugar levels under control. And they're loaded with vitamin A and beta-carotene, which there's evidence to suggest can lower your diabetes risk.",
+        "na_raspolaganju": 22,
+        "broj_prodatih": 18,
+        "top_seller": false,
+        "popularnost": []
+
+    },
+    {
+        "id": 13,
+        "slika": {
+            "src": "gallery-img-14",
+            "alt": "Product tomattoes"
+
+        },
+        "naziv": "Tomattoes",
+        "cena": {
+            "nova": "19.99",
+            "stara": "30"
+        },
+        "snizenje": true,
+        "kategorija": 0,
+        "opis": "The tomato is the edible berry of the plant Solanum lycopersicum, commonly known as a tomato plant. The species originated in western South America and Central America. ... ",
+        "na_raspolaganju": 20,
+        "broj_prodatih": 8,
+        "top_seller": false,
+        "popularnost": []
+
+    }, {
+        "id": 14,
+        "slika": {
+            "src": "gallery-img-15",
+            "alt": "Product papaya"
+
+        },
+        "naziv": "Papaya",
+        "cena": {
+            "nova": "69.99",
+            "stara": "70"
+        },
+        "snizenje": true,
+        "kategorija": 5,
+        "opis": "Papayas are a soft, fleshy fruit that can be used in a wide variety of culinary ways. Here we will explore more on the health benefits, uses, how to incorporate more of them into your diet, and what nutritional value papayas have.   Fastfacts on pa",
+        "na_raspolaganju": 11,
+        "broj_prodatih": 9,
+        "top_seller": false,
+        "popularnost": []
+
+    },
+    {
+        "id": 15,
+        "slika": {
+            "src": "gallery-img-16",
+            "alt": "Product oats"
+
+        },
+        "naziv": "Mixed Oats",
+        "cena": {
+            "nova": "29.99",
+            "stara": "40"
+        },
+        "snizenje": true,
+        "kategorija": 3,
+        "opis": "Oats (Avena sativa) are a whole-grain cereal mainly grown in North America and Europe. They are a very good source of fiber, especially beta glucan, and are high in vitamins, minerals, and antioxidants.",
+        "na_raspolaganju": 20,
+        "broj_prodatih": 8,
+        "top_seller": false,
+        "popularnost": []
+
+    },
+    {
+        "id": 16,
+        "slika": {
+            "src": "gallery-img-17",
+            "alt": "Product oranges"
+
+        },
+        "naziv": "Orangese",
+        "cena": {
+            "nova": "49.99",
+            "stara": "50"
+        },
+        "snizenje": true,
+        "kategorija": 0,
+        "opis": "Orange or orange is a hybrid of citrus. It was created by crossing pomelo and mandarin. It is a small evergreen tree up to 10 meters high. The flowers are white, five-membered, and the fruit is hesperidium. Orange is a fruit of different citrus species from the Rutaceae family.        ",
+        "na_raspolaganju": 20,
+        "broj_prodatih": 8,
+        "top_seller": false,
+        "popularnost": []
+
+    },
+    {
+        "id": 17,
+        "slika": {
+            "src": "gallery-img-18",
+            "alt": "Product pumpkin"
+
+        },
+        "naziv": "Pumpkins",
+        "cena": {
+            "nova": "119.99",
+            "stara": "70"
+        },
+        "snizenje": true,
+        "kategorija": 5,
+        "opis": "But some people might experience allergies after eating pumpkin. It's mildly diuretic in nature and may harm people who take medicines such as lithium. Pumpkin is all healthy but pumpkin based junk foods like lattes, pies and candies are loaded with sugar, which is not good for health.",
+        "na_raspolaganju": 20,
+        "broj_prodatih": 8,
+        "top_seller": false,
+        "popularnost": []
+
+    },
+    {
+        "id": 18,
+        "slika": {
+            "src": "gallery-img-19",
+            "alt": "Product strawberry"
+
+        },
+        "naziv": "Strawberry",
+        "cena": {
+            "nova": "49.99",
+            "stara": "70"
+        },
+        "snizenje": true,
+        "kategorija": 1,
+        "opis": "These potent little packages protect your heart, increase HDL (good) cholesterol, lower your blood pressure, and guard against cancer. Packed with vitamins, fiber, and particularly high levels of antioxidants known as polyphenols, strawberries are a sodium-free, fat-free, cholesterol-free, low-calorie food.",
+        "na_raspolaganju": 30,
+        "broj_prodatih": 20,
+        "top_seller": false,
+        "popularnost": []
+
+    },
+    {
+        "id": 19,
+        "slika": {
+            "src": "gallery-img-20",
+            "alt": "Product grapes"
+
+        },
+        "naziv": "Grape",
+        "cena": {
+            "nova": "29.99",
+            "stara": "30"
+        },
+        "snizenje": false,
+        "kategorija": 1,
+        "opis": "Grapes are a good source of potassium, a mineral that helps balance fluids in your body. Potassium can help bring down high blood pressure and lower your risk of heart disease and stroke. Most people don't get enough of this nutrient, so eating grapes can help fill the gap.",
+        "na_raspolaganju": 20,
+        "broj_prodatih": 10,
+        "top_seller": false,
+        "popularnost": []
+
+    },
+    {
+        "id": 20,
+        "slika": {
+            "src": "gallery-img-21",
+            "alt": "Product blueberries"
+
+        },
+        "naziv": "Blueberry",
+        "cena": {
+            "nova": "29.99",
+            "stara": "30"
+        },
+        "snizenje": false,
+        "kategorija": 1,
+        "opis": "According to a few studies, a bowl of blueberries can help in boosting immunity and can reduce the risk of diabetes, obesity and heart diseases. Moreover, consuming a small portion of berries daily can help in strengthening the metabolism and prevent any kind of metabolic syndrome and deficiency",
+        "na_raspolaganju": 20,
+        "broj_prodatih": 10,
+        "top_seller": false,
+        "popularnost": []
+
+    }
+
+
+
+
+]

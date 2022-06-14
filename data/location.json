@@ -1,0 +1,29 @@
+[{
+        "id": 0,
+        "naziv": "Danny's",
+        "adresa": {
+            "ulica": "151 Elizabeth St",
+            "grad": "New York",
+            "postanskibroj": "NY 10012"
+        },
+        "slika": "banner-01.jpg",
+        "telefon": "(646) 666-0810",
+        "email": "info@freshshopnyc.com",
+        "radnisati": "8:30 AM - 4 PM",
+        "opis": "Wiliemsan (Innovative Retail Concepts Private Limited) is biggest grocery store online sustenance. With more than 18,000 items and over 1000 brands on our list, you will discover all that you are searching for. Appropriate from new Fruits and Vegetables, Rice and Lentils, Spices and Seasonings to Packaged items, Beverages, Personal consideration items, Meats – we have everything.Browse a wide scope of choices in each class, solely handpicked to enable you to locate the best quality accessible at the least cost. Select an availability for conveyance and your request will be conveyed ideal to your doorstep, anyplace in US California, New Jersey, "
+    },
+    {
+        "id": 1,
+        "naziv": "Nolita's",
+        "adresa": {
+            "ulica": "122 Bakers St",
+            "grad": "Boston",
+            "postanskibroj": "BN 13211"
+        },
+        "slika": "banner-02.jfif",
+        "telefon": "(646) 666-1111",
+        "email": "info@freshshopbsn.com",
+        "radnisati": "8:00 AM - 5 PM",
+        "opis": "Nolita enables you to leave the drudgery of grocery shopping and welcome a simple loosened up method for perusing and looking for staple goods.Find new items and shop for all your sustenance and grocery needs from the solace of your home or office.No all the more stalling out in-car influxes, paying for leaving, remaining in long lines, and conveying substantial sacks – get all that you require, when you require, comfortable doorstep.Sustenance shopping on the web is presently simple as each item on your month-to-month shopping list, is currently accessible online at ‘Organization Name’ .com, India’s best online grocery store."
+    }
+]

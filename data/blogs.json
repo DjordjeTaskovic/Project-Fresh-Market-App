@@ -1,0 +1,30 @@
+[{
+        "id": 0,
+        "slika": {
+            "src": "blog-img-1",
+            "alt": "Blog 1"
+        },
+        "naziv": "Why are Greeen's so inportant?",
+        "opis": "Vegetables are important sources of many nutrients, including potassium, dietary fiber, folate (folic acid), vitamin A, and vitamin C. ... Dietary fiber from vegetables, as part of an overall healthy diet, helps reduce blood cholesterol levels and may lower risk of heart disease.Virtually all of the more important vegetables were cultivated among the ancient civilizations of either the Old or the New World and have long been noted for their nutritional importance.As the birth of modern human civilizations, vegetables were identified as the sourced of great medicinal and nutritional power.Vegetables are usually classified on the basis of the part of the plant that is used for food."
+    }, {
+        "id": 2,
+        "slika": {
+            "src": "blog-img-2",
+            "alt": "Blog 2"
+        },
+        "naziv": "What are 4 benefits of eating naturaly grown palnts",
+        "opis": "A diet rich in vegetables and fruits can lower blood pressure, reduce the risk of heart disease and stroke, prevent some types of cancer, lower risk of eye and digestive problems, and have a positive effect upon blood sugar, which can help keep appetite in check.Hop shoots are eaten like asparagus (and even look like one), but the difference is that these shoots are very rare. They only emerge once a year during the spring and disappear quickly, which makes it hard to harvest in the wild. Hops are the herbs of beers, and the part that brewers don’t use (the green tips of the hop plant) is called hop shoots."
+    },
+    {
+        "id": 3,
+        "slika": {
+            "src": "blog-img-3",
+            "alt": "Blog 3"
+        },
+        "naziv": "Why are vegetables better than fruit?",
+        "opis": "Both are high in fiber as well as vitamins, minerals, antioxidants and plant compounds. Fruits and vegetables are also naturally low in sodium and fat ( 2 ). As you might expect given their sweet taste, fruits tend to have a higher amount of natural sugar and calories compared to most varieties of vegetables.The term vegetable usually refers to the edible portions of certain herbaceous plants — roots, stems, leaves, flowers, fruit, or seeds.These plant parts are either eaten fresh or prepared in a number of ways, usually as a savory, rather than sweet, dish.Originally, vegetables were collected from the wild by hunter-gatherers and entered cultivation in several parts of the world, probably during the period 10,000 BC to 7,000 BC, when a new agricultural way of life developed."
+    }
+
+
+
+]
